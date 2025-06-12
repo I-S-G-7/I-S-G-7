@@ -8,5 +8,5 @@
 
 ### **🚀 Current Focus**  
 - **🎓 Pursuing my degree** in *Software Engineering* at *PUCIT*.  
-- **🤖 Exploring** embedded systems, compilers, or performance optimization. *(Customize based on your interests!)*  
+- **🤖 Exploring** embedded systems, compilers, or performance optimization.   
 - **📚 Learning** by breaking things, then fixing them better.  
