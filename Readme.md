@@ -22,61 +22,45 @@ My recent work includes developing Talk_At_FCIT, a real-time collaboration platf
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
 
 ### 💻 Front-End
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
 
 ### 🛢️ Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle)
-
-### ☁️ Cloud + Storage + Payments
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws)
-![Stripe](https://img.shields.io/badge/-Stripe-635BFF?logo=stripe)
 
 ---
 
 ## 📌 Featured Projects
 
 ### 📁 Public Projects
-- **EduVerse AI Frontend** – Multi-tenant LMS (Angular & TypeScript)  
-- **EduVerse AI Backend** – FastAPI & MongoDB APIs  
+- **Talk@FCIT** – A Web Based Messaging App for FCIT Students (Typescript & Django)  
+- **BLUE-AI-ROBOT** – An AI Robot that makes independent decisions (Rasberry Pie 4 & Pyhton)  
 
 ---
 
-### 🔒 Private / Client Projects (Not Public Due to NDA)
+### 🔒 Private (In Development Phase)
 
-The following are professional client/job projects and cannot be publicly shared due to confidentiality agreements:
-
-- **Car Clipper** - AI Vehicle Image Processing Platform  
-  (FastAPI, Next.js, PostgreSQL, AWS S3, Async Workers)
-
-- **VyntraCare** - Healthcare Procurement & Inventory System  
-  (Next.js, Supabase, PostgreSQL, Stripe, RBAC)
-
-These systems include production-level architecture, transactional workflows, secure authentication and scalable backend infrastructure.
+- **Kernel OS** - A Modified Operating System With Updated Algorithms & Efficiend Working
+  (C, Linux, Ubuntu)
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-hassan-42a823301">LinkedIn</a> •
-  <a href="mailto:mhassanahmad905@gmail.com">Email</a> •
-  <a href="https://mhassanahmad-portfolio.netlify.app/">Portfolio</a>
+  <a href="https://www.linkedin.com/in/shayan-ghaffar-4625b1208/">LinkedIn</a> •
+  <a href="mailto:gujjarshayan110@gmail.com">Email</a> 
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-- Backend Architecture & API Design  
-- Scalable SaaS Platforms  
-- Secure Role-Based Systems  
+- Competitive Programming 
+- Scalable Apps 
+- System Design 
 - AI-Integrated Applications  
 
 ---
