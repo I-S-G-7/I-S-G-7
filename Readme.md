@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-A problem-solver at heart with a toolkit that ranges from x86 Assembly to Dart & Flutter. My journey is driven by curiosity: how does a scheduler handle tasks? How does a database store notes efficiently? How can AI assist in robotics?
+A problem-solver at heart. My journey is driven by curiosity: how does a scheduler handle tasks? How does a database store notes efficiently? How can AI assist in robotics?
 
 My recent work includes developing Talk_At_FCIT, a real-time collaboration platform, and deep-diving into Systems Programming by building custom kernel logs. I’m always looking for the next 'impossible' challenge to solve with elegant, optimized code.
 
