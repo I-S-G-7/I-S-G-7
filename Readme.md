@@ -19,7 +19,6 @@ My recent work includes developing Talk_At_FCIT, a real-time collaboration platf
 ### 🔧 Back-End
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
 ![Django](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
 
 ### 💻 Front-End
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
@@ -37,14 +36,8 @@ My recent work includes developing Talk_At_FCIT, a real-time collaboration platf
 ### 📁 Public Projects
 - **Talk@FCIT** – A Web Based Messaging App for FCIT Students (Typescript & Django)  
 - **BLUE-AI-ROBOT** – An AI Robot that makes independent decisions (Rasberry Pie 4 & Pyhton)  
-
----
-
-### 🔒 Private (In Development Phase)
-
 - **Kernel OS** - A Modified Operating System With Updated Algorithms & Efficiend Working
   (C, Linux, Ubuntu)
-
 ---
 
 ## 📫 Connect With Me
