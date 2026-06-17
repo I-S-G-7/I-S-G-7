@@ -18,7 +18,7 @@ My recent work includes developing Talk_At_FCIT, a real-time collaboration platf
 
 ### 🔧 Back-End
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
-![Django](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi)
+![Django](https://img.shields.io/badge/-Django-009688?logo=fastapi)
 
 ### 💻 Front-End
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
